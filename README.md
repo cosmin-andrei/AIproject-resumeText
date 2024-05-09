@@ -1,5 +1,10 @@
 # AIproject-resumeText
 
+### Echipa de proiect - UBB FMI 2024
+- Cosmin Andrei
+- Alin Mihis
+- Darius Bordeanu
+
 ### Scop
 Crearea unor rezumate asociate textelor, rezumate care sa contina cele mai importante informatii dintr-un anumit text. 
 
